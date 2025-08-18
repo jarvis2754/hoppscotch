@@ -1,7 +1,7 @@
 {
   "name": "@hoppscotch/selfhost-web",
   "private": true,
-  "version": "2025.6.1",
+  "version": "2025.7.1",
   "type": "module",
   "scripts": {
     "dev:vite": "vite",
@@ -69,6 +69,7 @@
     "@vue/eslint-config-typescript": "13.0.0",
     "autoprefixer": "10.4.20",
     "cross-env": "7.0.3",
+    "dotenv": "17.2.1",
     "eslint": "8.57.0",
     "eslint-plugin-prettier": "5.2.1",
     "eslint-plugin-vue": "9.29.0",
